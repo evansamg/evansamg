@@ -20,5 +20,5 @@ I am a recent graduate with a profound interest in technology and a dedication t
 </div>
 
 ## Projects
-- Detection Lab
+- Detection Lab <a href="https://linkedin.com/in/evan-strumpis/">
 - SOC Automation Project
